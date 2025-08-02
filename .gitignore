@@ -1,0 +1,6 @@
+# For React or Node projects
+node_modules/
+.env
+build/
+dist/
+*.log
